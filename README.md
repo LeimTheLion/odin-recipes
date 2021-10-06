@@ -1,0 +1,1 @@
+This is my first Odin project. It shows my HTML coding skills.
